@@ -238,3 +238,14 @@ If you have found any bugs or questions feel free to open an issue. If you are i
 # Useful resources
 
 If you're new to the JavaScript ecosystem and want to understand typescript [I found this guide to be helpful](https://medium.com/free-code-camp/how-to-set-up-a-typescript-project-67b427114884#51cb).
+
+
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
+
